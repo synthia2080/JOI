@@ -58,7 +58,6 @@ p {
 
 p:hover{
     color: black;
-    opacity: 75%;
 }
 
 .enter:hover ~ .tri{
