@@ -57,7 +57,8 @@ p {
 }
 
 p:hover{
-    color: red;
+    color: black;
+    opacity: 75%;
 }
 
 .enter:hover ~ .tri{
